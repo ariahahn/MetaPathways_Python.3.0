@@ -111,7 +111,7 @@ Download and unzip the NCBI taxonomy file to the ``MetaPathways_DBs/ncbi_tree`` 
 Download and unzip functional classification files to ``MetaPathways_DBs/functional_hierarchy`` folder
 ::
 
-$ cd MetaPathways_DBs/functional_hierarchy
+$ cd MetaPathways_DBs/functional_categories
 $ wget https://github.com/kishori82/MetaPathways_Python.3.0/raw/kmk-develop/data/refdata/CAZY_hierarchy.txt.gz
 $ wget https://github.com/kishori82/MetaPathways_Python.3.0/raw/kmk-develop/data/refdata/COG_categories.txt.gz
 $ wget https://github.com/kishori82/MetaPathways_Python.3.0/raw/kmk-develop/data/refdata/KO_classification.txt.gz
