@@ -1,5 +1,9 @@
 Running MetaPathways
 ********************
+Be sure you are running this in folder that contains the c_cpp_sources and MetaPathways_DBs. If you have been following along in the tutorial you will need to move out of the functional folder by doing
+::
+$ cd ..
+$ cd ..
 
 Input
 =====
