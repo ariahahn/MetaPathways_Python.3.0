@@ -77,7 +77,7 @@ For Ubuntu/Debian
 ::
 
   $ sudo apt-get install ncbi-blast+
-
+  $ cd ..
 
 Reference Sequences
 ===================
