@@ -61,7 +61,7 @@ untar the files, make and install, which takes a few minutes
 
   $ tar -zxvf c_cpp_sources.1.0.tar.gz
   $ cd c_cpp_sources
-  $ make`
+  $ make
   $ sudo make install
 
 NOTE: if you would like to unstall then type
@@ -108,10 +108,10 @@ Download and unzip the NCBI taxonomy file to the ``MetaPathways_DBs/ncbi_tree`` 
  $ wget https://github.com/kishori82/MetaPathways_Python.3.0/raw/kmk-develop/data/refdata/ncbi_taxonomy_tree.txt.gz
  $ wget https://github.com/kishori82/MetaPathways_Python.3.0/raw/kmk-develop/data/refdata/ncbi.map.gz
 
-Download and unzip functional classification files to ``MetaPathways_DBs/functional_hierarchy`` folder
+Download and unzip functional classification files to ``MetaPathways_DBs/functional_categories`` folder
 ::
 
-$ cd MetaPathways_DBs/functional_hierarchy
+$ cd MetaPathways_DBs/functional_categories
 $ wget https://github.com/kishori82/MetaPathways_Python.3.0/raw/kmk-develop/data/refdata/CAZY_hierarchy.txt.gz
 $ wget https://github.com/kishori82/MetaPathways_Python.3.0/raw/kmk-develop/data/refdata/COG_categories.txt.gz
 $ wget https://github.com/kishori82/MetaPathways_Python.3.0/raw/kmk-develop/data/refdata/KO_classification.txt.gz
